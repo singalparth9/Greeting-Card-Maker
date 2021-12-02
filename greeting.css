@@ -1,0 +1,16 @@
+#card {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* Iteration 3: Style the button  */
+#button{
+background: #f50a5f;
+width:150px;
+height:50px;
+color:white;
+text-align:center;
+line-height:50px;
+cursor:pointer;
+
+}
